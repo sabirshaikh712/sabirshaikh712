@@ -1,22 +1,71 @@
-# Hi, I'm Sabir Shaikh 👋
+<h1 align="center">Hi 👋, I'm Sabir Shaikh</h1>
+<h3 align="center">B.Sc. Computer Science Student | Aspiring Data Analyst & Web Developer</h3>
 
-🎓 B.Sc. Computer Science Student
-💻 Aspiring Data Analyst & Web Developer
-📊 Power BI | Python | SQL | Excel
+---
+
+## 🚀 About Me
+
+🎓 Pursuing B.Sc. Computer Science
+
+📊 Interested in Data Analytics, Power BI & Business Intelligence
+
+💻 Skilled in Python, SQL, HTML, CSS & JavaScript
+
 🌱 Currently learning Data Structures & Algorithms
 
-## Skills
+📈 Building real-world projects and improving problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Database
 - Python
 - SQL
+- DBMS
+- OOP
+
+### Data Analytics
 - Power BI
-- HTML, CSS, JavaScript
-- DBMS & OOP
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
 
-## Projects
-🔹 Netflix Content Analytics Dashboard
-🔹 EDA Superstore Sales Analysis
-🔹 Prodigy InfoTech Web Development Projects
+### Web Development
+- HTML
+- CSS
+- JavaScript
 
-## Connect With Me
-LinkedIn: www.linkedin.com/in/sabir-shaikh-998352399
-Email: sabirshaikh0120@gmail.com
+---
+
+## 📂 Featured Projects
+
+### 🎬 Netflix Content Analytics Dashboard
+Interactive Power BI dashboard analyzing Netflix content trends, ratings, countries, movies and TV shows.
+
+### 📊 EDA Superstore Sales Analysis
+Python-based exploratory data analysis uncovering sales trends, profit insights and business recommendations.
+
+### 🌐 Prodigy InfoTech Web Development Projects
+Collection of responsive web applications built using HTML, CSS and JavaScript.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabirshaikh712&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirshaikh712&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/sabir-shaikh-998352399
+
+📧 Email: sabirshaikh0120@gmail.com
+
+---
+
+⭐ Always learning, building and improving.
