@@ -15,6 +15,8 @@
 
 📈 Building real-world projects and improving problem-solving skills
 
+💡 I enjoy exploring different areas of technology, from data analytics and web development to problem solving and software engineering.
+
 ---
 
 ## 🛠️ Tech Stack
