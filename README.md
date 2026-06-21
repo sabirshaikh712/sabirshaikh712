@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sabir Shaikh 👋
 
-<!--
-**sabirshaikh712/sabirshaikh712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science Student
+💻 Aspiring Data Analyst & Web Developer
+📊 Power BI | Python | SQL | Excel
+🌱 Currently learning Data Structures & Algorithms
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- HTML, CSS, JavaScript
+- DBMS & OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Netflix Content Analytics Dashboard
+🔹 EDA Superstore Sales Analysis
+🔹 Prodigy InfoTech Web Development Projects
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/sabir-shaikh-998352399
+Email: sabirshaikh0120@gmail.com
