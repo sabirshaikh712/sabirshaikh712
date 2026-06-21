@@ -19,6 +19,18 @@
 
 ---
 
+## 💡 Interests
+
+- Software Development
+- Data Analytics
+- Web Technologies
+- Problem Solving
+- Emerging Technologies
+
+I enjoy exploring different areas of technology and building projects that help me learn by doing.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming & Database
