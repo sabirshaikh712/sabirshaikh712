@@ -1,17 +1,17 @@
-<h1 align="center">Sabir Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Sabir Shaikh</h1>
 
 <h3 align="center">
-Computer Science Student • Data Analytics Enthusiast • Power BI Developer • Web Developer
+Computer Science Student • Data Analyst • Power BI Developer • Python Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=800&lines=Building+Data-Driven+Solutions;Power+BI+%7C+Python+%7C+SQL;Interactive+Dashboards;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1200&color=00C853&center=true&vCenter=true&width=850&lines=Building+Data-Driven+Solutions;Power+BI+%7C+Python+%7C+SQL;Interactive+Dashboards;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/sabirshaikh712">
-<img src="https://komarev.com/ghpvc/?username=sabirshaikh712&label=Profile+Views&color=00C853&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sabirshaikh712&label=Profile%20Views&color=00C853&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/sabirshaikh712?tab=followers">
@@ -34,40 +34,41 @@ Computer Science Student • Data Analytics Enthusiast • Power BI Developer �
 
 🎓 B.Sc. Computer Science Student
 
-📊 Passionate about **Data Analytics, Business Intelligence & Data Visualization**
+📊 Passionate about **Data Analytics**, **Business Intelligence**, and **Data Visualization**
 
-💻 Building real-world projects using **Power BI, Python, SQL, Excel and JavaScript**
+💻 Building real-world projects using **Power BI**, **Python**, **SQL**, **Excel**, and **JavaScript**
 
-🌱 Currently learning **Data Structures & Algorithms, Machine Learning and Advanced Power BI**
+🚀 I enjoy transforming raw data into meaningful insights through interactive dashboards and analytics.
 
-🚀 I enjoy transforming raw data into meaningful insights and creating modern, interactive applications.
+🌱 Currently learning **Machine Learning**, **Advanced Power BI**, and **Data Structures & Algorithms**
 
 ---
 
 # 🚀 Current Focus
 
-- 📊 Power BI Dashboard Development
+- 📊 Business Intelligence Dashboards
 - 🐍 Python for Data Analytics
 - 🗄 SQL & Database Management
-- 🌐 Web Development
-- 🤖 Machine Learning Fundamentals
+- 📈 Data Visualization
+- 🤖 Machine Learning
 
 ---
-# 🛠️ Tech Stack
+
+# 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql,postgres" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql,postgres"/>
 </p>
 
-### 📊 Data Analytics & Business Intelligence
+### 📊 Data Analytics
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
@@ -79,69 +80,148 @@ Computer Science Student • Data Analytics Enthusiast • Power BI Developer �
 
 ### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙ Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
-# 🌟 Featured Projects
 
-| Project | Technology | Repository |
-|:--------|:----------:|:----------:|
-| 🎬 Netflix Content Analytics Dashboard | Power BI | [View](https://github.com/sabirshaikh712/Netflix-Content-Analytics-Dashboard) |
-| 🎵 Spotify Streaming Analytics Dashboard | Power BI | [View](https://github.com/sabirshaikh712/Spotify-streaming-analytics-dashboard) |
-| 🛒 Walmart Sales Dashboard | Power BI | Coming Soon |
-| 📊 Superstore Sales EDA | Python | Coming Soon |
+# 🖼 Project Showcase
 
----
-# 🖼️ Project Showcase
+<table>
 
-## 🎬 Netflix Content Analytics Dashboard
+<tr>
+
+<td width="50%" align="center">
+
+### 🎬 Netflix Dashboard
 
 <a href="https://github.com/sabirshaikh712/Netflix-Content-Analytics-Dashboard">
-  <img src="assets/netflix-dashboard.png" alt="Netflix Dashboard" width="100%">
+
+<img src="assets/netflix-dashboard.png" width="95%">
+
 </a>
 
-**Tech Stack:** Power BI • DAX • Data Visualization
+Power BI • DAX • Data Visualization
 
-Interactive dashboard analyzing Netflix's content library with KPIs, ratings, countries, movies, TV shows, and interactive filters.
+</td>
 
----
+<td width="50%" align="center">
 
-## 🎵 Spotify Streaming Analytics Dashboard
+### 🎵 Spotify Dashboard
 
 <a href="https://github.com/sabirshaikh712/Spotify-streaming-analytics-dashboard">
-  <img src="assets/spotify-dashboard.png" alt="Spotify Dashboard" width="100%">
+
+<img src="assets/spotify-dashboard.png" width="95%">
+
 </a>
 
-**Tech Stack:** Power BI • Data Analytics • Dashboard Design
+Power BI • Analytics
 
-Interactive dashboard providing artist insights, streaming trends, album analysis, and popularity metrics.
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🛒 Walmart Dashboard
+
+<img src="assets/walmart-dashboard.png" width="95%">
+
+Power BI • Business Intelligence
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 Superstore EDA
+
+<img src="assets/superstore-eda.jpeg" width="95%">
+
+Python • Pandas • NumPy
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🛒 Walmart Sales Dashboard
+# 📈 GitHub Statistics
 
-<img src="assets/walmart-dashboard.png" alt="Walmart Dashboard" width="100%">
+<p align="center">
 
-**Tech Stack:** Power BI • Business Intelligence
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sabirshaikh712&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Business dashboard featuring KPIs, regional sales, profit analysis, customer insights, and interactive reporting.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirshaikh712&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabirshaikh712&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabirshaikh712&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📊 Superstore Sales EDA
+# 🌱 Currently Learning
 
-<img src="assets/superstore-eda.jpeg" alt="Superstore EDA" width="100%">
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib
-
-Exploratory data analysis uncovering sales patterns, profitability, and business recommendations through Python.
+- Advanced Power BI
+- SQL Optimization
+- Machine Learning
+- React
+- Cloud Fundamentals
 
 ---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sabir-shaikh-998352399">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:sabirshaikh0120@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://github.com/sabirshaikh712">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💚 Turning Data into Insights • Building Projects • Learning Every Day 🚀
+
+</p>
