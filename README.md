@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Sabir Shaikh Banner" width="100%">
-</p>
-
 <h1 align="center">Sabir Shaikh</h1>
 
 <h3 align="center">
@@ -94,14 +90,58 @@ Computer Science Student • Data Analytics Enthusiast • Power BI Developer �
 </p>
 
 ---
-
 # 🌟 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎬 Netflix Content Analytics Dashboard | Interactive Power BI dashboard analyzing content trends, ratings and countries. |
-| 🎵 Spotify Streaming Analytics Dashboard | Interactive dashboard providing artist and streaming insights. |
-| 🛒 Walmart Sales Dashboard | Business Intelligence dashboard with KPIs and business insights. |
-| 📊 Superstore Sales EDA | Python exploratory data analysis using Pandas and Matplotlib. |
+| Project | Technology | Repository |
+|:--------|:----------:|:----------:|
+| 🎬 Netflix Content Analytics Dashboard | Power BI | [View](https://github.com/sabirshaikh712/Netflix-Content-Analytics-Dashboard) |
+| 🎵 Spotify Streaming Analytics Dashboard | Power BI | [View](https://github.com/sabirshaikh712/Spotify-streaming-analytics-dashboard) |
+| 🛒 Walmart Sales Dashboard | Power BI | Coming Soon |
+| 📊 Superstore Sales EDA | Python | Coming Soon |
+
+---
+# 🖼️ Project Showcase
+
+## 🎬 Netflix Content Analytics Dashboard
+
+<a href="https://github.com/sabirshaikh712/Netflix-Content-Analytics-Dashboard">
+  <img src="assets/netflix-dashboard.png" alt="Netflix Dashboard" width="100%">
+</a>
+
+**Tech Stack:** Power BI • DAX • Data Visualization
+
+Interactive dashboard analyzing Netflix's content library with KPIs, ratings, countries, movies, TV shows, and interactive filters.
+
+---
+
+## 🎵 Spotify Streaming Analytics Dashboard
+
+<a href="https://github.com/sabirshaikh712/Spotify-streaming-analytics-dashboard">
+  <img src="assets/spotify-dashboard.png" alt="Spotify Dashboard" width="100%">
+</a>
+
+**Tech Stack:** Power BI • Data Analytics • Dashboard Design
+
+Interactive dashboard providing artist insights, streaming trends, album analysis, and popularity metrics.
+
+---
+
+## 🛒 Walmart Sales Dashboard
+
+<img src="assets/walmart-dashboard.png" alt="Walmart Dashboard" width="100%">
+
+**Tech Stack:** Power BI • Business Intelligence
+
+Business dashboard featuring KPIs, regional sales, profit analysis, customer insights, and interactive reporting.
+
+---
+
+## 📊 Superstore Sales EDA
+
+<img src="assets/superstore-eda.jpeg" alt="Superstore EDA" width="100%">
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib
+
+Exploratory data analysis uncovering sales patterns, profitability, and business recommendations through Python.
 
 ---
