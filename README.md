@@ -1,85 +1,194 @@
-<h1 align="center">Hi 👋, I'm Sabir Shaikh</h1>
-<h3 align="center">B.Sc. Computer Science Student | Aspiring Data Analyst & Web Developer</h3>
+```md
+<h1 align="center">Sabir Shaikh</h1>
+
+<p align="center">
+<b>Computer Science Student</b> • <b>Data Analytics Enthusiast</b> • <b>Power BI Developer</b> • <b>Web Developer</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+Data-Driven+Solutions;Power+BI+%7C+Python+%7C+SQL;Web+Development+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://github.com/sabirshaikh712">
+<img src="https://komarev.com/ghpvc/?username=sabirshaikh712&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+<a href="https://github.com/sabirshaikh712?tab=followers">
+<img src="https://img.shields.io/github/followers/sabirshaikh712?label=Followers&style=social" />
+</a>
+<a href="https://github.com/sabirshaikh712">
+<img src="https://img.shields.io/github/stars/sabirshaikh712?affiliations=OWNER&style=social" />
+</a>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Pursuing B.Sc. Computer Science
+🎓 B.Sc. Computer Science Student
 
-📊 Interested in Data Analytics, Power BI & Business Intelligence
+📊 Passionate about **Data Analytics, Business Intelligence & Visualization**
 
-💻 Skilled in Python, SQL, HTML, CSS & JavaScript
+💻 Building projects using **Python, SQL, Power BI, Excel and JavaScript**
 
-🌱 Currently learning Data Structures & Algorithms
+🌱 Currently learning **Data Structures & Algorithms**
 
-📈 Building real-world projects and improving problem-solving skills
+📈 Exploring **Software Development, Data Science and AI**
 
-💡 I enjoy exploring different areas of technology, from data analytics and web development to problem solving and software engineering.
-
----
-
-## 💡 Interests
-
-- Software Development
-- Data Analytics
-- Web Technologies
-- Problem Solving
-- Emerging Technologies
-
-I enjoy exploring different areas of technology and building projects that help me learn by doing.
+💡 I enjoy solving real-world problems by building practical and impactful projects.
 
 ---
 
-## 🛠️ Tech Stack
+# 💡 Interests
 
-### Programming & Database
-- Python
-- SQL
-- DBMS
-- OOP
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🌐 Web Development
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 🧠 Problem Solving
 
-### Data Analytics
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+</p>
+
+### 📊 Data Analytics
+
 - Power BI
 - Excel
 - Pandas
 - NumPy
 - Matplotlib
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🎬 Netflix Content Analytics Dashboard
-Interactive Power BI dashboard analyzing Netflix content trends, ratings, countries, movies and TV shows.
+## 🎬 Netflix Content Analytics Dashboard
 
-### 📊 EDA Superstore Sales Analysis
-Python-based exploratory data analysis uncovering sales trends, profit insights and business recommendations.
-
-### 🌐 Prodigy InfoTech Web Development Projects
-Collection of responsive web applications built using HTML, CSS and JavaScript.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabirshaikh712&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabirshaikh712&layout=compact)
+- Interactive Power BI Dashboard
+- Content Trends
+- Movies vs TV Shows
+- Country Analysis
+- KPI Dashboard
 
 ---
 
-## 📫 Connect With Me
+## 🎵 Spotify Streaming Analytics Dashboard
 
-💼 LinkedIn: www.linkedin.com/in/sabir-shaikh-998352399
-
-📧 Email: sabirshaikh0120@gmail.com
+- Listening Trends
+- Artist Performance
+- Track Insights
+- Interactive Visualizations
 
 ---
 
-⭐ Always learning, building and improving.
+## 🛒 Walmart Sales Dashboard
+
+- Regional Sales Analysis
+- Business KPIs
+- Profit Analysis
+- Interactive Dashboard
+
+---
+
+## 📊 Superstore Sales EDA
+
+- Python
+- Pandas
+- Matplotlib
+- Business Insights
+- Data Visualization
+
+---
+
+## 🌐 Web Development Projects
+
+- Responsive Landing Pages
+- Stopwatch App
+- Portfolio Website
+- Interactive UI Projects
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sabirshaikh712&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirshaikh712&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabirshaikh712&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabirshaikh712&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sabirshaikh712&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🌐 Portfolio & Profiles
+
+🌍 **Portfolio Website** *(Coming Soon)*
+
+💻 **GitHub**  
+https://github.com/sabirshaikh712
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/sabir-shaikh-998352399
+
+📧 **Email**  
+sabirshaikh0120@gmail.com
+
+---
+
+# 🎯 Current Focus
+
+- 📊 Advanced Power BI Dashboards
+- 🐍 Python for Data Analytics
+- 📈 SQL & Database Management
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, contributing to open source, and connecting with fellow developers and data enthusiasts.
+
+---
+
+<p align="center">
+
+### ⭐ "Learning. Building. Improving. Every Single Day."
+
+</p>
+```
